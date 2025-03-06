@@ -22,7 +22,6 @@
 
 <p align="center">
   <br />
-  <img src="./_docs/assets/carbon.png" />
 </p>
 
 ## Features
@@ -46,12 +45,3 @@
 | Requests | Latest  | [PyPi](https://pypi.org/project/requests/) |
 | OS       | Built-in | [Docs](https://docs.python.org/3/library/os.html) |
 | Shutil   | Built-in | [Docs](https://docs.python.org/3/library/shutil.html) |
-
-## 🛠️ Architecture
-
-```bash
-src
-├── 📂 Scripts        # Core scripts for downloading HQs
-├── 📂 Utils          # Helper functions for validation and organization
-├── 📂 Configs        # Settings and parameters for execution
-├── 📂 Tests          # Unit tests for the download functionality
